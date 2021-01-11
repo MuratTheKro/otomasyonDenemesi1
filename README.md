@@ -1,0 +1,2 @@
+# otomasyonDenemesi1
+mevcutZero
